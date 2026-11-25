@@ -1,0 +1,6 @@
+participant,sequence,period,condition,spatial_presence,ssq_total,task_seconds,errors
+S003,BA,1,B,,11.22,47,2
+S003,BA,2,A,4.4,11.22,46,2
+S008,AB,1,A,3.2,7.48,46,1
+S008,AB,2,A,3.4,7.48,46,0
+S010,BA,1,B,4.2,7.48,47,0
